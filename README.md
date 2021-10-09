@@ -32,5 +32,5 @@
 - 下载文件到本地
 - 打开文件目录，运行命令： python MiniDuckSimulator.py
 - 运行结果如下
-![运行结果](123_md_files%5Coutprint.png?v=1&type=image)
+![运行结果](outprint.png)
 
